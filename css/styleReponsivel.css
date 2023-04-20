@@ -1,11 +1,11 @@
 @media (min-width: 390px) and (max-width: 884px) {
 
-    #videoZigZag{
+    .videoMaquina{
         width: 230px;
     
     }
     
-    #divZigZag{
+    .divMaquina{
         width: 270px;
     }
     }
