@@ -113,7 +113,7 @@ p{
     margin-top: 20px;
 }
 
-#imgZigZag{
+.imgMaquina{
     width: 130px;
     margin: 0 auto;
     margin-top: 20px;
@@ -127,7 +127,7 @@ p{
  
 }
 
-#divZigZag{
+.divMaquina{
     
     width: 480px;
     height: 480px;
@@ -141,7 +141,7 @@ p{
     position: relative;
 }
 
-#videoZigZag{
+.videoMaquina{
     width: 250px;
 
     position: absolute;
