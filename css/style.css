@@ -103,7 +103,7 @@ p{
 
 /*----------zigZag-----------*/
 
-#sectionZigZag{
+.sectionMaquina{
     display: flex;
     flex-direction: column;
 
